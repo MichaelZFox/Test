@@ -11,6 +11,7 @@
 // ["1234, "1567", "-2", "computer scinece"] -> ["-2"]
 // ["Russia", "Denmark", "Kazan"] -> []
 
+Console.Clear();
 string[] array1 = new string[] { "hello", "2", "word", ":-)" };
 string[] array2 = new string[array1.Length];
 
